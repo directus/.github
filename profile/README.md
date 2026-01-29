@@ -2,7 +2,7 @@
 
 Directus is a real-time API and App dashboard for managing SQL database content.
 
-**[Learn more about Directus](https://directus.io)** • **[Documentation](https://docs.directus.io)**
+**[Learn more about Directus](https://directus.io)** • **[Documentation](https://directus.io/docs)**
 
 ```
 docker run -p 8055:8055 directus/directus
@@ -10,11 +10,10 @@ docker run -p 8055:8055 directus/directus
 
 ## Resources
 
-[The Directus Documentation](https://docs.directus.io) is a great place to start, or explore these other channels:
+[The Directus Documentation](https://directus.io/docs) is a great place to start, or explore these other channels:
 
 - [Community](https://community.directus.io) (Questions, Discussions)
-- [Discord](https://directus.chat) (Live Chat)
 - [GitHub Issues](https://github.com/directus/directus/issues) (Report Bugs)
-- [GitHub Discussions](https://github.com/directus/directus/discussions) (Feature Requests)
-- [Twitter](https://twitter.com/directus) (Latest News)
+- [Roadmap](https://roadmap.directus.io) (Feature Requests)
+- [Twitter]([https://twitter.com/directus](https://x.com/directus)) (Latest News)
 - [YouTube](https://www.youtube.com/c/DirectusVideos/featured) (Video Tutorials)
