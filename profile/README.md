@@ -15,5 +15,5 @@ docker run -p 8055:8055 directus/directus
 - [Community](https://community.directus.io) (Questions, Discussions)
 - [GitHub Issues](https://github.com/directus/directus/issues) (Report Bugs)
 - [Roadmap](https://roadmap.directus.io) (Feature Requests)
-- [Twitter]([https://twitter.com/directus](https://x.com/directus)) (Latest News)
+- [Twitter](https://x.com/directus) (Latest News)
 - [YouTube](https://www.youtube.com/c/DirectusVideos/featured) (Video Tutorials)
